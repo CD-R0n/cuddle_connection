@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-29 12:53" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-31 14:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Cuddle Connection</title>
 	<link>http://localhost/cuddle_connection</link>
 	<description></description>
-	<pubDate>Wed, 29 May 2024 12:53:34 +0000</pubDate>
+	<pubDate>Fri, 31 May 2024 14:30:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/cuddle_connection</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/cuddle_connection</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[info@cd-ron.eu]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[info@cd-ron.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -44,14 +44,14 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[header]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -75,7 +75,7 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>http://localhost/cuddle_connection/wp-content/uploads/2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom-cropped-512.png</url>
+	<url>http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_red_no_background_512_x_512-150x150.png</url>
 	<title>Cuddle Connection</title>
 	<link>http://localhost/cuddle_connection</link>
 	<width>32</width>
@@ -84,20 +84,20 @@
 
 		<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/28/hello-world/</link>
-		<pubDate>Tue, 28 May 2024 13:28:42 +0000</pubDate>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/hello-world/</link>
+		<pubDate>Fri, 31 May 2024 06:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?p=1</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 13:28:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-28 13:28:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 06:48:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 06:48:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
@@ -114,8 +114,8 @@
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
 			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
 			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2024-05-28 13:28:42]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2024-05-28 13:28:42]]></wp:comment_date_gmt>
+			<wp:comment_date><![CDATA[2024-05-31 06:48:26]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2024-05-31 06:48:26]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
@@ -127,10 +127,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
-		<link>http://localhost/cuddle_connection/sample-page/</link>
-		<pubDate>Tue, 28 May 2024 13:28:42 +0000</pubDate>
+		<link>http://localhost/cuddle_connection/index.php/sample-page/</link>
+		<pubDate>Fri, 31 May 2024 06:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=2</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
@@ -149,14 +149,14 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://localhost/wordpress/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<p>As a new WordPress user, you should go to <a href="http://localhost/cuddle_connection/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 13:28:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-28 13:28:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 06:48:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 06:48:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
@@ -174,15 +174,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>http://localhost/cuddle_connection/?page_id=3</link>
-		<pubDate>Tue, 28 May 2024 13:28:42 +0000</pubDate>
+		<pubDate>Fri, 31 May 2024 06:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=3</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
 <h2 class="wp-block-heading">Who we are</h2>
 <!-- /wp:heading -->
 <!-- wp:paragraph -->
-<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/wordpress.</p>
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/cuddle_connection.</p>
 <!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Comments</h2>
@@ -253,10 +253,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 13:28:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-28 13:28:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-28 13:28:42]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 06:48:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 06:48:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 06:48:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
@@ -270,21 +270,25 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_suggested_privacy_policy_content]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:11:"plugin_name";s:9:"WordPress";s:11:"policy_text";s:4478:"<h2 class="wp-block-heading">Who we are</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost/cuddle_connection.</p><h2 class="wp-block-heading">Comments</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><h2 class="wp-block-heading">Media</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><h2 class="wp-block-heading">Cookies</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><h2 class="wp-block-heading">Embedded content from other websites</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><h2 class="wp-block-heading">Who we share your data with</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><h2 class="wp-block-heading">How long we retain your data</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><h2 class="wp-block-heading">What rights you have over your data</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><h2 class="wp-block-heading">Where your data is sent</h2><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>";s:5:"added";i:1717138699;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/28/navigation/</link>
-		<pubDate>Tue, 28 May 2024 13:28:45 +0000</pubDate>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/navigation/</link>
+		<pubDate>Fri, 31 May 2024 06:48:30 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/2024/05/28/navigation/</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/index.php/2024/05/31/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 13:28:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 13:28:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-28 13:28:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-28 13:28:45]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 06:48:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:48:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 06:48:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 06:48:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -296,19 +300,56 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/28/wp-global-styles-twentytwentyfour/</link>
-		<pubDate>Tue, 28 May 2024 13:48:26 +0000</pubDate>
+		<title><![CDATA[Cuddle Connection]]></title>
+		<link>http://localhost/cuddle_connection/logo_no_background_cropped_512_x_512/</link>
+		<pubDate>Fri, 31 May 2024 06:55:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/2024/05/28/wp-global-styles-twentytwentyfour/</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_no_background_cropped_512_x_512.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 06:55:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:55:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 06:57:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 06:57:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo_no_background_cropped_512_x_512]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_no_background_cropped_512_x_512.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/05/logo_no_background_cropped_512_x_512.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:48:"2024/05/logo_no_background_cropped_512_x_512.png";s:8:"filesize";i:310009;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:48:"logo_no_background_cropped_512_x_512-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:117487;}s:9:"thumbnail";a:5:{s:4:"file";s:48:"logo_no_background_cropped_512_x_512-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33896;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Icon]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/wp-global-styles-twentytwentyfour/</link>
+		<pubDate>Fri, 31 May 2024 06:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/index.php/2024/05/31/wp-global-styles-twentytwentyfour/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"styles":{"blocks":{"core\/calendar":{"css":".wp-block-calendar table:where(:not(.has-text-color)) th{background-color:var(--wp--preset--color--contrast);color:var(--wp--preset--color--base);border-color:var(--wp--preset--color--contrast)} & table:where(:not(.has-text-color)) td{border-color:var(--wp--preset--color--contrast)}"},"core\/comment-date":{"color":{"text":"var(--wp--preset--color--contrast)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--contrast)"}}}},"core\/comment-edit-link":{"elements":{"link":{"color":{"text":"var(--wp--preset--color--contrast)"}}}},"core\/comment-reply-link":{"elements":{"link":{"color":{"text":"var(--wp--preset--color--contrast)"}}}},"core\/post-date":{"color":{"text":"var(--wp--preset--color--contrast)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--contrast)"}}}},"core\/post-terms":{"css":"& .wp-block-post-terms__prefix{color: var(--wp--preset--color--contrast);}"},"core\/quote":{"color":{"background":"var(--wp--preset--color--base)"}},"core\/site-tagline":{"color":{"text":"var(--wp--preset--color--contrast)"}}},"elements":{"button":{":focus":{"color":{"background":"var(--wp--preset--color--contrast)"},"border":{"color":"var(--wp--preset--color--contrast)"}},":hover":{"color":{"background":"var(--wp--preset--color--contrast)"},"border":{"color":"var(--wp--preset--color--contrast)"}}},"caption":{"color":{"text":"var(--wp--preset--color--contrast)"}}}},"settings":{"color":{"duotone":{"theme":[{"colors":["#A62B0C","#F3F0E7"],"slug":"duotone-1","name":"Dark rust to beige"}]},"gradients":{"theme":[{"slug":"gradient-1","gradient":"linear-gradient(to bottom, #A62A0C42 0%, #F3F0E7 100%)","name":"Vertical transparent rust to beige"},{"slug":"gradient-7","gradient":"linear-gradient(to bottom, #A62A0C42 50%, #F3F0E7 50%)","name":"Vertical hard transparent rust to beige"},{"slug":"gradient-2","gradient":"linear-gradient(to bottom, #A62B0C 0%, #F3F0E7 100%)","name":"Vertical rust to beige"},{"slug":"gradient-8","gradient":"linear-gradient(to bottom, #A62B0C 50%, #F3F0E7 50%)","name":"Vertical hard rust to beige"}]},"palette":{"theme":[{"color":"#F3F0E7","name":"Base","slug":"base"},{"color":"#ECEADF","name":"Base \/ 2","slug":"base-2"},{"color":"#A62B0C","name":"Contrast","slug":"contrast"}]}}},"isGlobalStylesUserThemeJSON":true,"version":2}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 13:48:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 13:48:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-28 13:49:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-28 13:49:15]]></wp:post_modified_gmt>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 06:59:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 06:59:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 07:25:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 07:25:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
@@ -321,73 +362,168 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Cuddle Connection]]></title>
-		<link>http://localhost/cuddle_connection/d0777701effc4551928a58006e7fb722-pngtplv-6bxrjdptv7-image-photoroom-png-photoroom-cropped-512/</link>
-		<pubDate>Tue, 28 May 2024 14:03:10 +0000</pubDate>
+		<title><![CDATA[Wie zijn wij?]]></title>
+		<link>http://localhost/cuddle_connection/index.php/wie-zijn-wij/</link>
+		<pubDate>Fri, 31 May 2024 07:10:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom-cropped-512.png</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=8</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","className":"is-style-asterisk"} -->
+<h2 class="wp-block-heading has-text-align-center is-style-asterisk">An array of resources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
+<p class="has-text-align-center">Our comprehensive suite of professional services caters to a diverse clientele, ranging from homeowners to commercial developers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%"><!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+<h3 class="wp-block-heading is-style-asterisk">Joline</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Mijn naam is Joline ik ben 53 jaar oud. Werk sinds mijn 20ste in de gezondheidszorg. Heb twee dochters. Ben een sport fanaat. Parkour freeruning, fitness en yoga. Maar ik maak ook graag een wandeling in de natuur. Verder hou ik van koken en ben een familie en vrienden mens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ik heb een aantal jaar als verpleegkundige in de psychiatrie gewerkt waar het al pijnlijk duidelijk werd hoe afgestompt mensen raakte zonder fysiek contact. Hierna in de kinderopvang waar in het heel normaal is dat er geknuffeld wordt ook als activiteitenbegeleidster bij verstandelijk beperkte mensen is aanraken zoals snoezelen heel normaal is. Nu werk ik voornamelijk met de ouder wordende mens als praktijk ondersteuner. Daar kom ik veel mensen tegen die eenzaam zijn, vrienden vallen weg overlijden of zijn niet meer bereikbaar doordat fysiek onmogelijk wordt. Er zijn behoorlijk aantal ouderen die geen contact meer hebben met hun kinderen of geen kinderen hebben. Geen connectie meer met andere en zeker geen aanraking en knuffels meer. Die knuffels zijn zo belangrijk voor zowel je lichamelijk als psychische welzijn. Wat dus de algehele gezondheid bevorderd.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;Ik ben ook van mening dat de reguliere gezondheidszorg niet de enige manier is om mensen te genezen of gezond te houden. Een mens heeft een enorm zelf helend vermogen. Gezondheid kan je beinvloeden door voeding en beweging. Maar zeker ook door ademwerk en meditatie en fysiek contact. Je brein heeft dit nodig om al zijn functies uit te voeren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In de corona periode ben ik me gaan verdiepen in de invloed van knuffels op je lichamelijk en geestelijke gezondheid. Om die reden ben ik samen met Julian dit programma opgestart.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":30,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost/cuddle_connection/wp-content/uploads/2024/05/337013271_141377365277337_5411401067828179279_n.jpg" alt="" class="wp-image-30"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"id":31,"sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost/cuddle_connection/wp-content/uploads/2024/05/file.jpg" alt="" class="wp-image-31"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"40%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:40%"><!-- wp:heading {"level":3,"className":"is-style-asterisk"} -->
+<h3 class="wp-block-heading is-style-asterisk">Julian</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ik ben Julian, 30 jaar oud en in het dagelijks leven ben ik IT'er en werk ik bij Stedin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nu zul je denken: IT, wat heeft dat te maken met coachen? En specifiek knuffel coachen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dat is een goeie vraag! Het is ook niet zo dat ik door mijn werk dit ben gaan doen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mijn interesse in het coachen is voortgekomen uit mijn passie om mensen te helpen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2017 heb ik een schouderblessure opgelopen tijdens het sporten en heb toen van alles geprobeerd om er van af te komen. Hetgeen wat mij uiteindelijk het meest heeft geholpen is massages.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Massages hebben zowel mijn klachten verminderd als dat het mij in het algemeen meer rust gaf.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ik heb zelf in 2018 een massage cursus gevolgd en ben vrienden, familie en kennissen gaan masseren en tot heden geef ik naast mijn werk ook nog regelmatig massages omdat ik graag mensen wil helpen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Om dan terug te komen op het coachen; ik wil graag mensen helpen en sinds corona zijn we afstandelijker geworden naar elkaar. Ik persoonlijk hou van knuffelen en tijdens corona werd dat stukken minder gedaan omdat we toch voorzichtig waren. Ik vond dat jammer en ik miste het contact.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ik dacht bij mezelf dat andere mensen dit ook zouden missen en in een gesprek met Joline noemde zij het knuffelcoachen. Ik vond het een interessant idee en we zijn er toen samen onderzoek naar gaan doen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Een hele hoop discussies, onderzoeken en bakkies thee later zitten we hier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hopelijk kunnen we jullie het een en ander bijleren en jullie helpen je prettig te voelen bij knuffels!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 07:10:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:10:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 12:59:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 12:59:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wie-zijn-wij]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Cuddle Connection]]></title>
+		<link>http://localhost/cuddle_connection/logo_no_background_cropped/</link>
+		<pubDate>Fri, 31 May 2024 07:13:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_no_background_cropped.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-28 14:03:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-28 14:03:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 10:32:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 08:32:44]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 07:13:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:13:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 07:13:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 07:13:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[d0777701effc4551928a58006e7fb722-pngtplv-6bxrjdptv7-image-photoroom-png-photoroom-cropped-512]]></wp:post_name>
+		<wp:post_name><![CDATA[logo_no_background_cropped]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom-cropped-512.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_no_background_cropped.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom-cropped-512.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024/05/logo_no_background_cropped.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:105:"2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom-cropped-512.png";s:8:"filesize";i:310009;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Icon]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Cuddle Connection]]></title>
-		<link>http://localhost/cuddle_connection/d0777701effc4551928a58006e7fb722-pngtplv-6bxrjdptv7-image-photoroom-png-photoroom/</link>
-		<pubDate>Wed, 29 May 2024 08:32:30 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/wp-content/uploads/2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-29 10:32:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-29 08:32:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 10:33:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 08:33:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[d0777701effc4551928a58006e7fb722-pngtplv-6bxrjdptv7-image-photoroom-png-photoroom]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1024;s:6:"height";i:1024;s:4:"file";s:93:"2024/05/d0777701effc4551928a58006e7fb722.pngtplv-6bxrjdptv7-image-Photoroom.png-Photoroom.png";s:8:"filesize";i:806612;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:828;s:6:"height";i:828;s:4:"file";s:38:"2024/05/logo_no_background_cropped.png";s:8:"filesize";i:736019;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:38:"logo_no_background_cropped-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:117398;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"logo_no_background_cropped-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33575;}s:12:"medium_large";a:5:{s:4:"file";s:38:"logo_no_background_cropped-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:627073;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -395,17 +531,83 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Footer]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/29/footer/</link>
-		<pubDate>Wed, 29 May 2024 08:34:02 +0000</pubDate>
+		<title><![CDATA[Veel Gestelde Vragen]]></title>
+		<link>http://localhost/cuddle_connection/index.php/veel-gestelde-vragen/</link>
+		<pubDate>Fri, 31 May 2024 07:16:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/2024/05/29/footer/</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=11</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"metadata":{"name":"FAQs"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"contrast","textColor":"base","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-color has-contrast-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:heading {"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"fontSize":"10rem","letterSpacing":"-0.02em"}},"textColor":"base"} -->
+<h2 class="wp-block-heading alignwide has-base-color has-text-color has-link-color" style="font-size:10rem;letter-spacing:-0.02em">FAQs</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:separator {"backgroundColor":"base","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-base-color has-alpha-channel-opacity has-base-background-color has-background is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>What is your process working in smaller projects?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>Who is behind Études?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>I'd like to get to meet fellow architects, how can I do that?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:details {"style":{"spacing":{"margin":{"top":"0"}},"border":{"top":{"width":"0px","style":"none"},"right":{"width":"0px","style":"none"},"bottom":{"color":"var:preset|color|base","style":"solid","width":"1px"},"left":{"width":"0px","style":"none"}}},"className":"is-style-arrow-icon-details","fontSize":"medium"} -->
+<details class="wp-block-details is-style-arrow-icon-details has-medium-font-size" style="border-top-style:none;border-top-width:0px;border-right-style:none;border-right-width:0px;border-bottom-color:var(--wp--preset--color--base);border-bottom-style:solid;border-bottom-width:1px;border-left-style:none;border-left-width:0px;margin-top:0"><summary>Can I apply to be a part of the team or work as a contractor?</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast-1"}}}},"textColor":"contrast-1"} -->
+<p class="has-contrast-1-color has-text-color has-link-color">Études offers comprehensive consulting, management, design, and research solutions. Our vision is to be at the forefront of architectural innovation, fostering a global community of architects and enthusiasts united by a passion for creating spaces. Every architectural endeavor is an opportunity to shape the future.</p>
+<!-- /wp:paragraph --></details>
+<!-- /wp:details -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|10","style":{"spacing":{"margin":{"top":"var:preset|spacing|10","bottom":"0"}}}} -->
+<div style="margin-top:var(--wp--preset--spacing--10);margin-bottom:0;height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 07:16:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:16:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 07:16:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 07:16:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[veel-gestelde-vragen]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/footer/</link>
+		<pubDate>Fri, 31 May 2024 07:16:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/index.php/2024/05/31/footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"dimensions":{"minHeight":""},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:site-logo {"width":20,"shouldSyncIcon":false,"style":{"layout":{"selfStretch":"fit","flexSize":null}}} /-->
+<div class="wp-block-group"><!-- wp:site-logo {"width":20,"shouldSyncIcon":false,"style":{"layout":{"selfStretch":"fit","flexSize":null},"color":{"duotone":"var:preset|duotone|duotone-1"}}} /-->
 
 <!-- wp:site-title {"level":0,"fontSize":"medium"} /-->
 
@@ -479,10 +681,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-29 10:34:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-29 08:34:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 10:34:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 08:34:02]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 07:16:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:16:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 13:38:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 13:38:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
@@ -501,15 +703,15 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/29/header/</link>
-		<pubDate>Wed, 29 May 2024 08:34:02 +0000</pubDate>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/header/</link>
+		<pubDate>Fri, 31 May 2024 07:16:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/2024/05/29/header/</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/index.php/2024/05/31/header/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"20px","bottom":"20px"}}},"backgroundColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-base-background-color has-background" style="padding-top:20px;padding-bottom:20px"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between","flexWrap":"wrap"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"layout":{"selfStretch":"fit","flexSize":null}},"layout":{"type":"flex"}} -->
-<div class="wp-block-group"><!-- wp:site-logo {"width":60,"shouldSyncIcon":false} /-->
+<div class="wp-block-group"><!-- wp:site-logo {"width":125,"shouldSyncIcon":false,"style":{"color":{"duotone":"var:preset|duotone|duotone-1"}}} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0px"}}} -->
 <div class="wp-block-group"><!-- wp:site-title {"level":0} /--></div>
@@ -523,10 +725,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-29 10:34:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-29 08:34:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 10:34:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 08:34:02]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 07:16:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:16:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 13:37:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 13:37:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -544,22 +746,24 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Over Ons]]></title>
+		<title><![CDATA[Contact]]></title>
 		<link>http://localhost/cuddle_connection/?page_id=15</link>
-		<pubDate>Wed, 29 May 2024 08:43:39 +0000</pubDate>
+		<pubDate>Fri, 31 May 2024 07:20:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/wordpress/?page_id=15</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=15</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:preformatted -->
+<pre class="wp-block-preformatted"></pre>
+<!-- /wp:preformatted -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-29 10:43:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-29 08:43:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 10:43:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 08:43:39]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-05-31 07:20:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:20:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 07:20:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 07:20:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[over-ons__trashed]]></wp:post_name>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -572,19 +776,272 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1716972219]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1717140010]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[over-ons]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact]]></title>
+		<link>http://localhost/cuddle_connection/index.php/contact/</link>
+		<pubDate>Fri, 31 May 2024 07:52:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Neem contact met ons op</h2>
+<!-- /wp:heading -->
+
+<!-- wp:contact-form-7/contact-form-selector {"id":19,"hash":"281b88e","title":"Contact form 1"} -->
+<div class="wp-block-contact-form-7-contact-form-selector">[contact-form-7 id="281b88e" title="Contact form 1"]</div>
+<!-- /wp:contact-form-7/contact-form-selector -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost/cuddle_connection/wp-content/themes/twentytwentyfour/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 07:52:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:52:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 14:24:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 14:24:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Contact form 1]]></title>
+		<link>http://localhost/cuddle_connection/?post_type=wpcf7_contact_form&#038;p=19</link>
+		<pubDate>Fri, 31 May 2024 07:43:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?post_type=wpcf7_contact_form&#038;p=19</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit class:wp-block-button class:wp-element-button class:wp-block-button__link "Submit"]
+1
+[_site_title] "[your-subject]"
+[_site_title] <info@cd-ron.com>
+[_site_admin_email]
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+Reply-To: [your-email]
+
+
+
+
+[_site_title] "[your-subject]"
+[_site_title] <info@cd-ron.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+Reply-To: [_site_admin_email]
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 07:43:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 07:43:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 09:00:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 09:00:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit class:wp-block-button class:wp-element-button class:wp-block-button__link "Submit"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:31:"[_site_title] <info@cd-ron.com>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:31:"[_site_title] <info@cd-ron.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[281b88e31fc280e63b9d2a3cfa394eecc90be645]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[test]]></title>
+		<link>http://localhost/cuddle_connection/?page_id=25</link>
+		<pubDate>Fri, 31 May 2024 11:18:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?page_id=25</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 11:18:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 11:18:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 11:18:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 11:18:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[test__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1717154292]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[test]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-screenshot-2021-02-18-at-10.48.34]]></title>
+		<link>http://localhost/cuddle_connection/cropped-screenshot-2021-02-18-at-10-48-34/</link>
+		<pubDate>Fri, 31 May 2024 12:38:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/cropped-screenshot-2021-02-18-at-10.48.34.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 12:38:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 12:38:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 12:38:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 12:38:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-screenshot-2021-02-18-at-10-48-34]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/cropped-screenshot-2021-02-18-at-10.48.34.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/05/cropped-screenshot-2021-02-18-at-10.48.34.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2000;s:6:"height";i:993;s:4:"file";s:53:"2024/05/cropped-screenshot-2021-02-18-at-10.48.34.png";s:8:"filesize";i:1878165;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:53:"cropped-screenshot-2021-02-18-at-10.48.34-300x149.png";s:5:"width";i:300;s:6:"height";i:149;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:81246;}s:5:"large";a:5:{s:4:"file";s:54:"cropped-screenshot-2021-02-18-at-10.48.34-1024x508.png";s:5:"width";i:1024;s:6:"height";i:508;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:685501;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"cropped-screenshot-2021-02-18-at-10.48.34-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:45839;}s:12:"medium_large";a:5:{s:4:"file";s:53:"cropped-screenshot-2021-02-18-at-10.48.34-768x381.png";s:5:"width";i:768;s:6:"height";i:381;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:423599;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"cropped-screenshot-2021-02-18-at-10.48.34-1536x763.png";s:5:"width";i:1536;s:6:"height";i:763;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1302033;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog Home]]></title>
-		<link>http://localhost/cuddle_connection/2024/05/29/home/</link>
-		<pubDate>Wed, 29 May 2024 12:33:15 +0000</pubDate>
+		<link>http://localhost/cuddle_connection/index.php/2024/05/31/home/</link>
+		<pubDate>Fri, 31 May 2024 12:39:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/cuddle_connection/2024/05/29/home/</guid>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/index.php/2024/05/31/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfour","tagName":"header","area":"header"} /-->
 
@@ -618,8 +1075,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-rounded"} -->
-<figure class="wp-block-image alignwide size-full is-style-rounded"><img src="http://localhost/cuddle_connection/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp" alt="Building exterior in Toronto, Canada"/></figure>
+<!-- wp:image {"id":27,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-rounded"} -->
+<figure class="wp-block-image alignwide size-full is-style-rounded"><img src="http://localhost/cuddle_connection/wp-content/uploads/2024/05/cropped-screenshot-2021-02-18-at-10.48.34.png" alt="" class="wp-image-27"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -890,11 +1347,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:template-part {"slug":"footer","theme":"twentytwentyfour","tagName":"footer","area":"footer"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[Displays the latest posts as either the site homepage or as the "Posts page" as defined under reading settings. If it exists, the Front Page template overrides this template when posts are shown on the homepage.]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-29 14:33:15]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-29 12:33:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-05-29 14:40:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-29 12:40:41]]></wp:post_modified_gmt>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 12:39:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 12:39:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 12:39:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 12:39:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -908,6 +1365,247 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[337013271_141377365277337_5411401067828179279_n]]></title>
+		<link>http://localhost/cuddle_connection/index.php/wie-zijn-wij/337013271_141377365277337_5411401067828179279_n/</link>
+		<pubDate>Fri, 31 May 2024 12:53:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/337013271_141377365277337_5411401067828179279_n.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 12:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 12:53:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 12:53:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 12:53:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[337013271_141377365277337_5411401067828179279_n]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>8</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/337013271_141377365277337_5411401067828179279_n.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/05/337013271_141377365277337_5411401067828179279_n.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:958;s:6:"height";i:960;s:4:"file";s:59:"2024/05/337013271_141377365277337_5411401067828179279_n.jpg";s:8:"filesize";i:124735;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:59:"337013271_141377365277337_5411401067828179279_n-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17332;}s:9:"thumbnail";a:5:{s:4:"file";s:59:"337013271_141377365277337_5411401067828179279_n-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5994;}s:12:"medium_large";a:5:{s:4:"file";s:59:"337013271_141377365277337_5411401067828179279_n-768x770.jpg";s:5:"width";i:768;s:6:"height";i:770;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83681;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[file]]></title>
+		<link>http://localhost/cuddle_connection/index.php/wie-zijn-wij/file/</link>
+		<pubDate>Fri, 31 May 2024 12:58:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/file.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 12:58:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 12:58:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 12:58:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 12:58:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[file]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>8</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/file.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/05/file.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:640;s:6:"height";i:640;s:4:"file";s:16:"2024/05/file.jpg";s:8:"filesize";i:169033;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:16:"file-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40146;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"file-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10654;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cuddle Connection]]></title>
+		<link>http://localhost/cuddle_connection/logo_red_no_background_512_x_512/</link>
+		<pubDate>Fri, 31 May 2024 13:56:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_red_no_background_512_x_512.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 13:56:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 13:56:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 13:57:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 13:57:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo_red_no_background_512_x_512]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost/cuddle_connection/wp-content/uploads/2024/05/logo_red_no_background_512_x_512.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/05/logo_red_no_background_512_x_512.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:44:"2024/05/logo_red_no_background_512_x_512.png";s:8:"filesize";i:236530;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:44:"logo_red_no_background_512_x_512-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:98218;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"logo_red_no_background_512_x_512-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29328;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Icon]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact form 1_copy]]></title>
+		<link>http://localhost/cuddle_connection/?post_type=wpcf7_contact_form&#038;p=21</link>
+		<pubDate>Fri, 31 May 2024 08:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/cuddle_connection/?post_type=wpcf7_contact_form&#038;p=21</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]
+[_site_title] "[your-subject]"
+[_site_title] <info@cd-ron.com>
+From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).
+[_site_admin_email]
+Reply-To: [your-email]
+
+0
+0
+
+[_site_title] "[your-subject]"
+[_site_title] <info@cd-ron.com>
+Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.
+[your-email]
+Reply-To: [_site_admin_email]
+
+0
+0
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+Please fill out this field.
+This field has a too long input.
+This field has a too short input.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The uploaded file is too large.
+There was an error uploading the file.
+Please enter a date in YYYY-MM-DD format.
+This field has a too early date.
+This field has a too late date.
+Please enter a number.
+This field has a too small number.
+This field has a too large number.
+The answer to the quiz is incorrect.
+Your entered code is incorrect.
+Please enter an email address.
+Please enter a URL.
+Please enter a telephone number.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2024-05-31 08:16:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-05-31 08:16:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-05-31 08:16:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-05-31 08:16:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1_copy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your name
+    [text* your-name autocomplete:name] </label>
+
+<label> Your email
+    [email* your-email autocomplete:email] </label>
+
+<label> Subject
+    [text* your-subject] </label>
+
+<label> Your message (optional)
+    [textarea your-message] </label>
+
+[submit "Submit"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:31:"[_site_title] <info@cd-ron.com>";s:4:"body";s:191:"From: [your-name] [your-email]
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This is a notification that a contact form was submitted on your website ([_site_title] [_site_url]).";s:9:"recipient";s:19:"[_site_admin_email]";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:31:"[_site_title] <info@cd-ron.com>";s:4:"body";s:220:"Message Body:
+[your-message]
+
+-- 
+This email is a receipt for your contact form submission on our website ([_site_title] [_site_url]) in which your email address was used. If that was not you, please ignore this message.";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";i:0;s:13:"exclude_blank";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a86dd89ebf2f2165bc768e6838bdf15c1257abd6]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
